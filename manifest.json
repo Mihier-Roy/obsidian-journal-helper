@@ -1,7 +1,7 @@
 {
 	"id": "journal-helper",
-	"name": "Obsidian Journal Helper",
-	"version": "1.0.1",
+	"name": "Journal Helper",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Adds support for tagging people and places using '@' and '!'",
 	"author": "Mihier-Roy",

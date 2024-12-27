@@ -1,6 +1,6 @@
 {
 	"name": "journal-helper",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Adds support for tagging people and places using '@' and '!'",
 	"main": "main.js",
 	"scripts": {
